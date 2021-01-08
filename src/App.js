@@ -20,6 +20,7 @@ class App extends Component {
 		}
 	}
 	componentDidMount() {
+		document.title = "RoboRedux"
 		fetch('https://jsonplaceholder.typicode.com/users').then(response => {
 			return response.json();
 		})
@@ -74,7 +75,7 @@ class App extends Component {
 			return <h1>Loading</h1>
 		}
 	else {
-	if (filterRobotsName === '')
+	if (filterRobotsName == '')
 	{
 		return(
 			<div className='tc'>	
@@ -101,5 +102,7 @@ class App extends Component {
 	}
 	}
 }
+
+
 
 export default App;
