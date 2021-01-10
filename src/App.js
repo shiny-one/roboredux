@@ -60,6 +60,10 @@ class App extends Component {
 			{
 				return robots.email;
 			}	
+			else if (robots.website.toLowerCase().includes(searchField.toLowerCase()))
+			{
+				return robots.website;
+			}	
 			else{
 				return '';
 			}
