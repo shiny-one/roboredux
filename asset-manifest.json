@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roboredux/static/css/main.7038832e.chunk.css",
+    "main.js": "/roboredux/static/js/main.f157875a.chunk.js",
+    "main.js.map": "/roboredux/static/js/main.f157875a.chunk.js.map",
+    "runtime-main.js": "/roboredux/static/js/runtime-main.e986531b.js",
+    "runtime-main.js.map": "/roboredux/static/js/runtime-main.e986531b.js.map",
+    "static/css/2.b2b01ed1.chunk.css": "/roboredux/static/css/2.b2b01ed1.chunk.css",
+    "static/js/2.722d4a32.chunk.js": "/roboredux/static/js/2.722d4a32.chunk.js",
+    "static/js/2.722d4a32.chunk.js.map": "/roboredux/static/js/2.722d4a32.chunk.js.map",
+    "index.html": "/roboredux/index.html",
+    "static/css/2.b2b01ed1.chunk.css.map": "/roboredux/static/css/2.b2b01ed1.chunk.css.map",
+    "static/css/main.7038832e.chunk.css.map": "/roboredux/static/css/main.7038832e.chunk.css.map",
+    "static/js/2.722d4a32.chunk.js.LICENSE.txt": "/roboredux/static/js/2.722d4a32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e986531b.js",
+    "static/css/2.b2b01ed1.chunk.css",
+    "static/js/2.722d4a32.chunk.js",
+    "static/css/main.7038832e.chunk.css",
+    "static/js/main.f157875a.chunk.js"
+  ]
+}
