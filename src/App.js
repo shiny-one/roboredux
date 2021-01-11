@@ -73,26 +73,10 @@ class App extends Component {
 			else{
 				return '';
 			}
-			// if (robots.name.toLowerCase().includes(this.state.searchField.toLowerCase()))
-			// {
-			// 	return robots.name;
-			// }
-
-			// else if (robots.email.toLowerCase().includes(this.state.searchField.toLowerCase()))
-			// {
-			// 	return robots.email;
-			// }	
-			// else{
-			// 	return '';
-			// }
 		})
-		
-		// const filterRobots = this.state.robots.filter(robots => {
-		// 	return robots.email.toLowerCase().includes(this.state.searchfield.toLowerCase());	
-		// })
 	if (isPending)
 		{ 
-			return <h1>Loading</h1>
+			return <h1 className='tc'>Loading</h1>
 		}
 	else {
 	if (filterRobotsName == '')
