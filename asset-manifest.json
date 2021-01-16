@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roboredux/static/css/main.7038832e.chunk.css",
-    "main.js": "/roboredux/static/js/main.f157875a.chunk.js",
-    "main.js.map": "/roboredux/static/js/main.f157875a.chunk.js.map",
+    "main.js": "/roboredux/static/js/main.450b22fa.chunk.js",
+    "main.js.map": "/roboredux/static/js/main.450b22fa.chunk.js.map",
     "runtime-main.js": "/roboredux/static/js/runtime-main.e986531b.js",
     "runtime-main.js.map": "/roboredux/static/js/runtime-main.e986531b.js.map",
     "static/css/2.b2b01ed1.chunk.css": "/roboredux/static/css/2.b2b01ed1.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.b2b01ed1.chunk.css",
     "static/js/2.722d4a32.chunk.js",
     "static/css/main.7038832e.chunk.css",
-    "static/js/main.f157875a.chunk.js"
+    "static/js/main.450b22fa.chunk.js"
   ]
 }
